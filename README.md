@@ -1,4 +1,4 @@
-# **ADE9000-ESP-32-energy-monitor-phasor-measurement-unit-modulair**<br/>
+# **ADE9000 ESP-32 energy-monitor / phasor-measurement-unit modulair**<br/>
 
 *Prototype version of an Energy Measurement / Phasor Measurement unit with modulair interface modules*<br/>
 
