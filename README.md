@@ -17,7 +17,8 @@
 * Optional I2C display  (SED1306 or H35B-I)<br/>
 * Arduino IDE , in RTOS , C++ Language <br/>
 <br/>
-##### *Now in testing phase -> so only use parts which I confirmed status tested*<br/>
+
+#### *Now in testing phase -> so only use parts which I confirmed status tested*<br/>
 
 *Software will be open source and soft- and hardware which are based on this*<br/> 
 *project by others have the obligation of open source and publishing at Github*<br/>
