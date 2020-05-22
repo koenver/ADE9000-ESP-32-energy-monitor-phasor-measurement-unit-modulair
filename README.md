@@ -21,4 +21,5 @@
 #### *Now in testing phase -> so only use parts which I confirmed status tested*<br/>
 
 *Software will be open source and soft- and hardware which are based on this*<br/> 
-*project by others have the obligation of open source and publishing at Github*<br/>
+*project and used by others have the obligation of open source and publishing*<br/> 
+*at Github*<br/>
