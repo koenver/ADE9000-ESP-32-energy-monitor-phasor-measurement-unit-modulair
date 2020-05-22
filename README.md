@@ -4,7 +4,7 @@
 
 **Specs:**<br/>
 •	ESP-32 processor (with double SPI and multicore multi tasking) and Wifi<br/> 
-	galvanic seperation with ADUM chips <br/>
+	       galvanic seperation with ADUM chips <br/>
 •	ADE9000 3 phase Energy Measurement IC , version for CT (5VA) or <br/>
         rogowski (0.1mV/A), 8kHz wavebuffering , harmonics analyses and <br/>
         event processing for 50Hz , 230V 3 phase Energy systems <br/>
@@ -18,6 +18,6 @@
 •	Arduino IDE , in RTOS , C++ Language <br/>
 <br/>
 ##### *Now in testing phase -> so only use parts which I confirmed status tested*<br/>
-<br/>
-*Software will be open source and soft- and hardware which are based on this<br/> 
-project by others have the obligation of open source and publishing at Github*<br/>
+
+*Software will be open source and soft- and hardware which are based on this*<br/> 
+*project by others have the obligation of open source and publishing at Github*<br/>
