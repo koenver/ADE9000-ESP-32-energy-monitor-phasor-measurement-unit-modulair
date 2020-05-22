@@ -4,7 +4,7 @@
 
 **Specs:**<br/>
 •	ESP-32 processor (with double SPI and multicore multi tasking) and Wifi<br/> 
-•	galvanic seperation with ADUM chips <br/>
+	galvanic seperation with ADUM chips <br/>
 •	ADE9000 3 phase Energy Measurement IC , version for CT (5VA) or <br/>
         rogowski (0.1mV/A), 8kHz wavebuffering , harmonics analyses and <br/>
         event processing for 50Hz , 230V 3 phase Energy systems <br/>
