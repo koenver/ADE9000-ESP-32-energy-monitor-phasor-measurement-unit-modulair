@@ -1,0 +1,8 @@
+tested:
+
+programmer      ......  ok  see software/hardware test
+lan8720-client   ...... ok  see software/hardware test
+        background info : (Frank Sauter) 
+        https://sautter.com/blog/ethernet-on-esp32-using-lan8720/
+
+to be continued
