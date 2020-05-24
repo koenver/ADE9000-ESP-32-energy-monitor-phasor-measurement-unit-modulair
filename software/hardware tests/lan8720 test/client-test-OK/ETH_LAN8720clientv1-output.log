@@ -1,0 +1,45 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.05.24 22:24:43 =~=~=~=~=~=~=~=~=~=~=~=
+ETH Connected
+ETH MAC: BC:DD:C2:C5:FD:DF, IPv4: 10.126.55.113, FULL_DUPLEX, 100Mbps
+
+connecting to google.com
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 24 May 2020 20:24:37 GMT
+Expires: Tue, 23 Jun 2020 20:24:37 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+closing connection
+
+
+connecting to google.com
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 24 May 2020 20:24:47 GMT
+Expires: Tue, 23 Jun 2020 20:24:47 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+closing connection
+
