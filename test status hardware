@@ -1,7 +1,8 @@
 tested:
 
-programmer      ......  ok  see software/hardware test
-lan8720-client   ...... ok  see software/hardware test
+programmer      ......  ok  see software/hardware test   (2020/5/24)
+lan8720-client   ...... ok  see software/hardware test   (2020/5/24)
+lan8720-server   ...... ok  see software/hardware test   (2020/5/26)
         background info : (Frank Sauter) 
         https://sautter.com/blog/ethernet-on-esp32-using-lan8720/
 
