@@ -5,5 +5,9 @@ lan8720-client   ...... ok  see software/hardware test   (2020/5/24)
 lan8720-server   ...... ok  see software/hardware test   (2020/5/26)
         background info : (Frank Sauter) 
         https://sautter.com/blog/ethernet-on-esp32-using-lan8720/
+Ublox-GPS PPS and time .ok  see software/hardware test   (2020/5/27)
+        * PCB mod is neccesary wroom32d + DIO didn't free gpio 9,10
+        * so GPS-TX was rewired to Rx0 (also needed for programming)
+        * for programing te GPS module needs to be removed (temporary)
 
 to be continued
