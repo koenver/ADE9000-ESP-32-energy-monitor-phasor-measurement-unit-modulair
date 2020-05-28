@@ -1,13 +1,23 @@
 tested:
 
-programmer      ......  ok  see software/hardware test   (2020/5/24)
-lan8720-client   ...... ok  see software/hardware test   (2020/5/24)
-lan8720-server   ...... ok  see software/hardware test   (2020/5/26)
+programmer      ......  ok  see software/hardware test               (2020/5/24)
+lan8720-client   ...... ok  see software/hardware test               (2020/5/24)
+lan8720-server   ...... ok  see software/hardware test               (2020/5/26)
         background info : (Frank Sauter) 
         https://sautter.com/blog/ethernet-on-esp32-using-lan8720/
-Ublox-GPS PPS and time .ok  see software/hardware test   (2020/5/27)
+Ublox-GPS PPS and time .ok  see software/hardware test               (2020/5/27)
         * PCB mod is neccesary wroom32d + DIO didn't free gpio 9,10
         * so GPS-TX was rewired to Rx0 (also needed for programming)
         * for programing te GPS module needs to be removed (temporary)
-
+        * but esp-32 wroom 32d can be programmed in QIO
+I2C         .......     ok see software/hardware test                (2020/5/28)
+          with in module 2  DS3232-RTC 
+          tested with SED1306 and H35B-I
+          H35B-I has some ghost I2c adresses, but that 'll only 
+          conflict with BME680.
+          found: BME60,SED1306,H35B-I,24Lxx,DS2482,MCP23017,ADS1015
+                 CCS811,HTS221,MCP4725,DS3232
+          *PCB mod needed : RST of MCP23017 needs to be grounded
+                            different adress selction for 2nd 24LXX
+        
 to be continued
