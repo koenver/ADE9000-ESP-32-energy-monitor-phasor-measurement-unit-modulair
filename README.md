@@ -20,7 +20,7 @@
 <br/>
 
 #### *Now in testing phase -> so only use parts which I confirmed status tested*<br/>
-
+#### *better wait till new PCB's are published, instead of using the manual re-wiring*<br/>
 *Software will be open source. (New) soft- and hardware which is based on this*<br/> 
 *project and used by others, have the obligation of open source publishing*<br/> 
 *at Github*<br/>
