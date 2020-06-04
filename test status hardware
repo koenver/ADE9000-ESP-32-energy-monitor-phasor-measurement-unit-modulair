@@ -23,6 +23,7 @@ Interrupt &                                                          (2020/6/4)
 Multicore *test with RTC (DS3232) which sends IRQ to MCP23017 , which  
            send it's own IRQ to ESP32, tested with 2 cores, 3 tasks and
            one interrupt routine, handles multiple interrupts of mcp23017
+           (no semaphores were used..(now not needed)
            ........     ok see software/hardware test
 
 to be continued
