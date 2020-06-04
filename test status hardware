@@ -17,7 +17,12 @@ I2C         .......     ok see software/hardware test                (2020/5/28)
           conflict with BME680.
           found: BME60,SED1306,H35B-I,24Lxx,DS2482,MCP23017,ADS1015
                  CCS811,HTS221,MCP4725,DS3232
-          *PCB mod needed : RST of MCP23017 needs to be grounded
+          *PCB mod needed : /RST of MCP23017 needs to be 3.3V
                             different adress selction for 2nd 24LXX
-        
+Interrupt &                                                          (2020/6/4)
+Multicore *test with RTC (DS3232) which sends IRQ to MCP23017 , which  
+           send it's own IRQ to ESP32, tested with 2 cores, 3 tasks and
+           one interrupt routine, handles multiple interrupts of mcp23017
+           ........     ok see software/hardware test
+
 to be continued
